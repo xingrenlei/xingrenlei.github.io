@@ -61,3 +61,5 @@
 ![](https://ws1.sinaimg.cn/mw690/007HG4n9ly1g1md67y7gnj307g0d4wer.jpg)
 
 谨以此文献给粉过一个骗子的脑残岁月……
+
+<script>document.querySelector('body > div > h1:nth-child(1)').style.display="none"</script>
