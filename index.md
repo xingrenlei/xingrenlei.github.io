@@ -62,4 +62,4 @@
 
 谨以此文献给粉过一个骗子的脑残岁月……
 
-<script>document.querySelector('body > div > h1:nth-child(1)').style.display="none"</script>
+<script>document.querySelector('body > div > h1:nth-child(1)').style.display="none";document.title = "怎么评价一只鱼的传说"</script>
