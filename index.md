@@ -64,4 +64,6 @@
 
 <script>document.querySelector('body > div > h1:nth-child(1)').style.display="none";document.title = "怎么评价一只鱼的传说"</script>
 
+<div style="display:none">
 <script type="text/javascript" src="https://s5.cnzz.com/z_stat.php?id=1276867670&web_id=1276867670"></script>
+</div>
