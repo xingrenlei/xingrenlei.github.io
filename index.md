@@ -63,3 +63,5 @@
 谨以此文献给粉过一个骗子的脑残岁月……
 
 <script>document.querySelector('body > div > h1:nth-child(1)').style.display="none";document.title = "怎么评价一只鱼的传说"</script>
+
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1276867670'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s5.cnzz.com/z_stat.php%3Fid%3D1276867670' type='text/javascript'%3E%3C/script%3E"));</script>
